@@ -17,168 +17,126 @@ If (like me) you're using pre-release TextMate 2, type in those commands in the 
 
 ### List of supported CSS properties
 
+name=:after
+tabTrigger=:af
 
-name⇥:after
-tabTrigger⇥:af
-===
+name=:before
+tabTrigger=:be
 
-name⇥:before
-tabTrigger⇥:be
-===
+name=background-color
+tabTrigger=bgc
 
-name⇥background-color
-tabTrigger⇥bgc
-===
+name=background-position
+tabTrigger=bgp
 
-name⇥background-position
-tabTrigger⇥bgp
-===
+name=background
+tabTrigger=bg
 
-name⇥background
-tabTrigger⇥bg
-===
+name=border-bottom
+tabTrigger=bob
 
-name⇥border-bottom
-tabTrigger⇥bob
-===
+name=border-left
+tabTrigger=bol
 
-name⇥border-left
-tabTrigger⇥bol
-===
+name=border-radius
+tabTrigger=br
 
-name⇥border-radius
-tabTrigger⇥br
-===
+name=border-right
+tabTrigger=bor
 
-name⇥border-right
-tabTrigger⇥bor
-===
+name=border-top
+tabTrigger=bot
 
-name⇥border-top
-tabTrigger⇥bot
-===
+name=border
+tabTrigger=bo
 
-name⇥border
-tabTrigger⇥bo
-===
+name=color
+tabTrigger=co
 
-name⇥color
-tabTrigger⇥co
-===
+name=display
+tabTrigger=di
 
-name⇥display
-tabTrigger⇥di
-===
+name=float
+tabTrigger=fl
 
-name⇥float
-tabTrigger⇥fl
-===
+name=font-size
+tabTrigger=fo
 
-name⇥font-size
-tabTrigger⇥fo
-===
+name=font-style
+tabTrigger=fs
 
-name⇥font-style
-tabTrigger⇥fs
-===
+name=font-weight
+tabTrigger=fw
 
-name⇥font-weight
-tabTrigger⇥fw
-===
+name=height
+tabTrigger=he
 
-name⇥height
-tabTrigger⇥he
-===
+name=line-height
+tabTrigger=lh
 
-name⇥line-height
-tabTrigger⇥lh
-===
+name=margin-bottom
+tabTrigger=mab
 
-name⇥margin-bottom
-tabTrigger⇥mab
-===
+name=margin-left
+tabTrigger=mal
 
-name⇥margin-left
-tabTrigger⇥mal
-===
+name=margin-right
+tabTrigger=mar
 
-name⇥margin-right
-tabTrigger⇥mar
-===
+name=margin-top
+tabTrigger=mat
 
-name⇥margin-top
-tabTrigger⇥mat
-===
+name=margin
+tabTrigger=ma
 
-name⇥margin
-tabTrigger⇥ma
-===
+name=outline
+tabTrigger=ou
 
-name⇥outline
-tabTrigger⇥ou
-===
+name=overflow
+tabTrigger=ov
 
-name⇥overflow
-tabTrigger⇥ov
-===
+name=padding-bottom
+tabTrigger=pab
 
-name⇥padding-bottom
-tabTrigger⇥pab
-===
+name=padding-left
+tabTrigger=pal
 
-name⇥padding-left
-tabTrigger⇥pal
-===
+name=padding-right
+tabTrigger=par
 
-name⇥padding-right
-tabTrigger⇥par
-===
+name=padding-top
+tabTrigger=pat
 
-name⇥padding-top
-tabTrigger⇥pat
-===
+name=padding
+tabTrigger=pa
 
-name⇥padding
-tabTrigger⇥pa
-===
+name=position
+tabTrigger=po
 
-name⇥position
-tabTrigger⇥po
-===
+name=text-align
+tabTrigger=ta
 
-name⇥text-align
-tabTrigger⇥ta
-===
+name=text-decoration
+tabTrigger=td
 
-name⇥text-decoration
-tabTrigger⇥td
-===
+name=text-indent
+tabTrigger=ti
 
-name⇥text-indent
-tabTrigger⇥ti
-===
+name=text-overflow
+tabTrigger=to
 
-name⇥text-overflow
-tabTrigger⇥to
-===
+name=text-transform
+tabTrigger=tt
 
-name⇥text-transform
-tabTrigger⇥tt
-===
+name=vertical-align
+tabTrigger=va
 
-name⇥vertical-align
-tabTrigger⇥va
-===
+name=white-space
+tabTrigger=ws
 
-name⇥white-space
-tabTrigger⇥ws
-===
+name=width
+tabTrigger=wi
 
-name⇥width
-tabTrigger⇥wi
-===
-
-name⇥z-index
-tabTrigger⇥zi
-===
+name=z-index
+tabTrigger=zi
 
